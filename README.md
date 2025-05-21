@@ -20,5 +20,5 @@ This project implements a **Cycle-Consistent Generative Adversarial Network (Cyc
 ## **Contact**
 
 - **Name:** Z Mohammed Ghayaz
-- **Email:** [mdghayaz04@gmail.com](mailto:mdghayaz04@gmail.com)  
-- **LinkedIn:** [Mohammed Ghayaz | LinkedIn](https://linkedin.com/in/mohammed-ghayaz) 
+- **Email:** [abdulrahman965@gmail.com](mailto:abdulrahmanj965@gmail.com)  
+- **LinkedIn:** [Abdul Rahman J | LinkedIn](https://www.linkedin.com/in/abdul-rahman-j-a60b3a259/) 
